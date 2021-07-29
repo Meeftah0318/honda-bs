@@ -1,0 +1,32 @@
+/* global */
+:root {
+  --orange-color: #e76f51;
+}
+
+.btn {
+  background-color: var(--orange-color);
+}
+
+/* header section  */
+header {
+  background-color: #264653;
+}
+
+.light-color {
+  color: #e0e0e0;
+}
+
+.orange-color {
+  color: var(--orange-color);
+}
+
+/* feature section  */
+hr {
+  border: 2px solid var(--orange-color);
+}
+
+.bw {
+  filter: grayscale(1);
+}
+
+/* news section  */
