@@ -55,3 +55,17 @@ hr {
 .grey-text {
   color: #6c6c6c;
 }
+
+footer {
+  background-color: #0b0d17;
+}
+
+footer li {
+  list-style: none;
+  margin-right: 1.5rem;
+}
+
+footer li,
+p {
+  color: white;
+}
