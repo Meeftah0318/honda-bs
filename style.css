@@ -3,7 +3,7 @@
   --orange-color: #e76f51;
 }
 
-.btn {
+.btn-orange {
   background-color: var(--orange-color);
 }
 
@@ -30,3 +30,28 @@ hr {
 }
 
 /* news section  */
+
+.outline-btn {
+  border: 1px solid var(--orange-color);
+  color: var(--orange-color);
+}
+
+.outline-btn:hover {
+  color: white;
+  background-color: var(--orange-color);
+}
+
+/* clients */
+
+.fa-star {
+  color: var(--orange-color);
+}
+
+.user-img {
+  width: 149px;
+  height: 149px;
+}
+
+.grey-text {
+  color: #6c6c6c;
+}
